@@ -15,6 +15,8 @@ The study found that deepfake technology in AR can significantly enhance visitor
 To test and use the developed prototype, you can access the following link or scan the QR code:
 
 **Prototype Link:** [Access the Prototype](https://y2e76.zappar.io/5429005348798520342/2.1/)
+![QR Code](QR_prototype.png)
+![Willem Of Orange Nassau](WilliamOfOrangeNassau.jpg)
 
 ### Instructions
 1. Upon accessing the link, provide consent to use your camera and sensors.
