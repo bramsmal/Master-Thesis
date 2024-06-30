@@ -12,11 +12,10 @@ This thesis explores the potential of deepfake technology in combination with au
 The study found that deepfake technology in AR can significantly enhance visitor immersion and emotional impact, although it does not necessarily improve usability compared to traditional text-based experiences.
 
 ## Prototype Evaluation
-To test and use the developed prototype, you can access the following link or scan the QR code:
+To test and use the developed prototype, you can access the following link([Access the Prototype](https://y2e76.zappar.io/5429005348798520342/2.1/)) or scan the QR code:
 
-**Prototype Link:** [Access the Prototype](https://y2e76.zappar.io/5429005348798520342/2.1/)
 ![QR Code](QR_prototype.png)
-![Willem Of Orange Nassau](WilliamOfOrangeNassau.jpg)
+<img src="WilliamOfOrangeNassau.jpg" width="400" />
 
 ### Instructions
 1. Upon accessing the link, provide consent to use your camera and sensors.
